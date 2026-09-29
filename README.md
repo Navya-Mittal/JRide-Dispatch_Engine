@@ -1,4 +1,4 @@
-# Ride Dispatch Engine — Dublin
+# JRide: Ride Dispatch Engine for Dublin
 
 A geospatial ride-matching engine, structurally modeled on the price-time
 priority matching engine from my order-book project, but for a completely
